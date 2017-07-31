@@ -1,0 +1,1 @@
+{"text":"George Washington is the 1st president","cloze":"George Washington","clozeDeleted":"_____ is the 1st president","type":"cloze"};{"front":"What is Josh's favorite band from the 90's?","back":"Counting Crows","type":"basic"};
